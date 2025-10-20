@@ -1,4 +1,4 @@
-# task1-local-network-scann
+
 # Task 1 — Local network scan (sejal vartak)
 
 Scanned network: 192.168.31.0/24
@@ -12,8 +12,7 @@ Commands used:
 - nmap -sS -p- -T4 -A 192.168.31.78 -oA nmap_self_192-168-31-78
 
 Files:
-- nmap_quickscan.* , nmap_router_192-168-31-1.*, nmap_self_192-168-31-78.* 
-- scan_capture.pcap
+-Nmap scan outputs
+-Wireshark outputs
 - screenshots/
 
-Findings & recommendations: (add your findings here after running the scans)
